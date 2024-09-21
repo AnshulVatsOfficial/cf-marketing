@@ -39,7 +39,9 @@ export const Contact = () => {
             />
           </svg>
           <div>
-            <p className="text-gray-900 text-center">c.fmarketingagency01@gmail.com</p>
+            <p className="text-gray-900 text-center">
+              c.fmarketingagency01@gmail.com
+            </p>
           </div>
         </div>
         <div className="bg-white p-4 rounded-lg shadow-md flex flex-col gap-y-4 items-center flex-1 basis-auto">
@@ -64,7 +66,7 @@ export const Contact = () => {
             />
           </svg>
           <p className="text-gray-900 text-center">
-            8502 Preston Rd. Inglewood, Maine 98380, USA
+            CF Marketing Agency, Pilani-Rajasthan, India
           </p>
         </div>
       </div>
