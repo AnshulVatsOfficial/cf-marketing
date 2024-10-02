@@ -92,10 +92,6 @@ export const Footer = () => {
         </div>
 
         <hr className="my-10 border-gray-200" />
-
-        {/* <p className="text-sm text-center text-gray-600">
-          © Copyright 2024, All Rights Reserved by <strong>CF Marketing</strong>
-        </p> */}
       </div>
     </section>
   );

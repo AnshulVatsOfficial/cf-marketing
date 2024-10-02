@@ -49,12 +49,12 @@ export const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Market Research
+              Digital Strategy & Planning
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
-              Make informed business decisions with our in-depth market
-              research, providing valuable insights into your industry and
-              target audience.
+              We leverage our years of experience to create the correct strategy
+              and plans for your business which helps to grow your brand and
+              revenue
             </p>
           </div>
 
@@ -111,11 +111,12 @@ export const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Brand Development
+              Creative Strategy and Web Graphics Design
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
-              Enhance your brand identity and stand out in the market with our
-              expert branding services, from logo design to brand messaging.
+              Creativity is a way of life at webeesocial. When we create
+              something – a website, an app, emailer, an infographic, a social
+              media post
             </p>
           </div>
 
@@ -163,12 +164,329 @@ export const Services = () => {
               />
             </svg>
             <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Digital Marketing
+              Social Media Marketing
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
-              Boost your online presence with our comprehensive digital
-              marketing strategies, including SEO, PPC, and social media
-              management.
+              Social is in our name, literally! Social Media is key to our
+              overall strategy, and we use a variety of social strategies across
+              different channels.
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Videos, GIFs and Content Marketing
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              Video has become the most popular content format. Google algorithm
+              rewards pages with features such as social media integration,
+              social bookmarking and rich videos
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Website Design and Development
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              We stay ahead of the technological and UI trends. We focus on
+              breaking down a user journey, translating our design in the most
+              efficient way.
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Search Engine Optimization
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              Our approach to SEO and SEM is simple and transparent. We audit
+              your assets and assess your SEO/SEM goals post which we share
+              timeline expectations
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Media Planning and Buying
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              We are connected with a network of media partners who help us
+              offer a fully integrated and accredited communication solution.
+              These media include websites, apps, etc.
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Shopify Website & Development
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              Looking for a Shopify website development company? You’ve landed
+              on just the right page!
+            </p>
+          </div>
+
+          <div className="md:p-8 lg:p-14 md:border-l md:border-gray-200">
+            <svg
+              className="mx-auto"
+              width="42"
+              height="42"
+              viewBox="0 0 42 42"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M41 1H1V41H41V1Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 7H7V20H18V7Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 26H7V35H18V26Z"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M35 7H24V35H35V7Z"
+                fill="#D4D4D8"
+                stroke="#161616"
+                stroke-width="2"
+                stroke-miterlimit="10"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
+              Email Marketing
+            </h3>
+            <p className="mt-5 text-base text-gray-600 font-pj">
+              We can build effective email marketing campaigns and streamline
+              the delivery process so that sending emailers is easy, secure and
+              personalised. Our creative team designs
             </p>
           </div>
         </div>
